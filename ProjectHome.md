@@ -1,0 +1,1 @@
+The Signature Picture Framework is a set of PHP classes used to create dynamic images, originally intended for forum signatures. From starting with a long script in one file, it is now being transitioned into using an object oriented approach.
